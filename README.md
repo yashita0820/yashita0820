@@ -1,16 +1,51 @@
-## Hi there 👋
 
-<!--
-**yashita0820/yashita0820** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Yashita! 👋
 
-Here are some ideas to get you started:
+🎓 Third-year B.Tech Computer Science student.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Aspiring Frontend Developer.
+
+## 🌱 About Me
+
+- Currently pursuing B.Tech in Computer Science and Engineering.
+- Interested in frontend development and web technologies.
+- Learning how to build responsive and user-friendly websites.
+- Always curious to learn new things and improve my skills.
+
+## 🛠️ Skills
+
+- C
+- HTML
+- SQL
+- Java (Basic)
+- JavaScript (Basic)
+
+## 💻 Tools & Technologies
+
+- Git
+- GitHub
+- Visual Studio Code (if you use it)
+
+## 🚀 Projects
+
+### ARCADIA
+A web-based gaming management platform. I contributed to the frontend UI.
+
+### AI Legal Documentation Assistant
+An AI-based legal document assistance project developed as part of the SIH 2026 institute-level internal hackathon.
+
+## 🎓 Education
+
+**B.Tech – Computer Science and Engineering**
+
+Parul Institute of Engineering & Technology
+
+Expected Graduation: 2028
+
+## 📫 Let's Connect
+
+GitHub: https://github.com/yashita0820
+
+---
+
+⭐ I'm currently learning and building projects to grow as a frontend developer!
